@@ -49,6 +49,6 @@ private:
 	FVector temPos = Fvector();
 
 	bool CanMove; 
-		int i;
+		
 
 };
