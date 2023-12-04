@@ -48,6 +48,7 @@ private:
 	float zPosition;
 	FVector temPos = Fvector();
 
-	bool CanMove;
+	bool CanMove; 
+		int i;
 
 };
