@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PGCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D2DF738D-AC04-4CDB-BC6E-E642AADC4A70}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PGCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PGCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{199CED19-0CE4-4CE1-8B37-463EA0103BBE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PGCPP">
+      <UniqueIdentifier>{E87DFD56-ADAF-4640-9B54-1D64FB40F6A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PGCPP\PGCPP.Build.cs">
+      <Filter>Source\PGCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PGCPP\PGCPP.cpp">
+      <Filter>Source\PGCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PGCPP\PGCPP.h">
+      <Filter>Source\PGCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PGCPP\PGCPPCharacter.cpp">
+      <Filter>Source\PGCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PGCPP\PGCPPCharacter.h">
+      <Filter>Source\PGCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PGCPP\PGCPPGameMode.cpp">
+      <Filter>Source\PGCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PGCPP\PGCPPGameMode.h">
+      <Filter>Source\PGCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PGCPP\RunnerCharacter.cpp">
+      <Filter>Source\PGCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PGCPP\RunnerCharacter.h">
+      <Filter>Source\PGCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

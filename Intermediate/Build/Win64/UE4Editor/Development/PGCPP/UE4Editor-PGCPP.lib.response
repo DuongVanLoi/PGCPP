@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PGCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\PGCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPP.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPPCharacter.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPPGameMode.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\RunnerCharacter.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPP.init.gen.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPPCharacter.gen.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\PGCPPGameMode.gen.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\RunnerCharacter.gen.cpp.obj"
+"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\Default.rc2.res"
+/OUT:"C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\UE4Editor-PGCPP.lib"
+/INCLUDE:IMPLEMENT_MODULE_PGCPP

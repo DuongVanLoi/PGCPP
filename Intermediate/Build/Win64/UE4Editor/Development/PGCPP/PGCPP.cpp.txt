@@ -1,0 +1,2 @@
+C:\Users\duong\Documents\Unreal Projects\PGCPP\Intermediate\Build\Win64\UE4Editor\Development\PGCPP\Definitions.PGCPP.h
+C:\Users\duong\Documents\Unreal Projects\PGCPP\Source\PGCPP\PGCPP.h

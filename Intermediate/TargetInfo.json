@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PGCPP",
+			"Path": "C:\\Users\\duong\\Documents\\Unreal Projects\\PGCPP\\Source\\PGCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PGCPPEditor",
+			"Path": "C:\\Users\\duong\\Documents\\Unreal Projects\\PGCPP\\Source\\PGCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
